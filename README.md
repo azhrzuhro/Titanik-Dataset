@@ -25,6 +25,7 @@ Mungkin ada penanganan data kosong seperti dropna atau fillna, meski belum diseb
 - Model yang Dilatih:
 Logistic Regression
 Random Forest Classifier dengan 100 estimators dan kriteria "Gini".
+K-Nearest Neigbors.
 XGBoost dengan 500 estimators.
 - Evaluasi dan Metode Scoring:
 Evaluasi setiap model menggunakan:
