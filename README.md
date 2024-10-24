@@ -1,8 +1,8 @@
 # Titanik-Dataset
 ## Tujuan :
 Membangun model prediksi berdasarkan fitur tertentu dengan memanfaatkan teknik Data Science dan Machine Learning untuk memperkirakan peluang seorang penumpang bertahan dari tragedi Titanic.
-## Dataset : ### https://www.kaggle.com/datasets/yasserh/titanic-dataset
-Dataset memiliki 12 kolom yang masing-masing diberi nama sebagai header. Header kolom ini berfungsi sebagai label untuk setiap jenis data yang terdapat dalam kolom tersebut.
+## Dataset : https://www.kaggle.com/datasets/yasserh/titanic-dataset
+Dataset di ambil dai kaggle memiliki 12 kolom yang masing-masing diberi nama sebagai header. Header kolom ini berfungsi sebagai label untuk setiap jenis data yang terdapat dalam kolom tersebut.
 
 PassengerId: Nomor unik yang diberikan kepada setiap penumpang.
 Survived: Menunjukkan apakah penumpang tersebut selamat (1) atau tidak (0) dalam suatu peristiwa, kemungkinan besar tenggelamnya kapal Titanic.
