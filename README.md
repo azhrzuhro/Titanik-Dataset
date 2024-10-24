@@ -1,7 +1,7 @@
 # Titanik-Dataset
 ## Tujuan :
 Membangun model prediksi berdasarkan fitur tertentu dengan memanfaatkan teknik Data Science dan Machine Learning untuk memperkirakan peluang seorang penumpang bertahan dari tragedi Titanic.
-## Dataset : https://www.kaggle.com/datasets/yasserh/titanic-dataset
+## Dataset : ###https://www.kaggle.com/datasets/yasserh/titanic-dataset
 Dataset memiliki 12 kolom yang masing-masing diberi nama sebagai header. Header kolom ini berfungsi sebagai label untuk setiap jenis data yang terdapat dalam kolom tersebut.
 
 PassengerId: Nomor unik yang diberikan kepada setiap penumpang.
@@ -39,11 +39,11 @@ Akurasi tiap model ditampilkan untuk mengetahui mana yang paling unggul.
 Ada upaya membandingkan beberapa algoritma (Logistic Regression, Random Forest, KNN, dan XGBoost) dalam hal akurasi.
 
 ## Kesimpulan
-> Dari total penumpang, sekitar 38% berhasil bertahan hidup, sementara sisanya tidak selamat.
+- Dari total penumpang, sekitar 38% berhasil bertahan hidup, sementara sisanya tidak selamat.
 
-> Melihat fitur mana yang paling berpengaruh dalam prediksi model serta melakukan pemrosesan data.
+- Melihat fitur mana yang paling berpengaruh dalam prediksi model serta melakukan pemrosesan data.
 
-> Berdasarkan hasil evaluasi, model Random Forest menunjukkan kinerja terbaik dalam mengklasifikasikan data, diikuti oleh Logistic Regression. Model KNN dan XGBoost,     meskipun memiliki potensi, belum mampu mengungguli kedua model tersebut dalam kasus ini.
+- Berdasarkan hasil evaluasi, model Random Forest menunjukkan kinerja terbaik dalam mengklasifikasikan data, diikuti oleh Logistic Regression. Model KNN dan XGBoost,     meskipun memiliki potensi, belum mampu mengungguli kedua model tersebut dalam kasus ini.
 
 
 
